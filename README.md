@@ -47,7 +47,7 @@ CREATE TABLE Retail_Sales
 - **Customer Count**: Find out how many unique customers are in the dataset.
 - **Category Count**: Identify all unique product categories in the dataset.
 - **Null Value Check**: Check for any null values in the dataset and delete records with missing data.
-- **Change format of the time **: Change the format of hh:mm:ss:0000 to hh:mm:ss.
+- **Change Fomat of Time**: Change the format of hh:mm:ss:0000 to hh:mm:ss.
 
 ```sql
 select top 10 * from Retail_Sales;
@@ -193,6 +193,7 @@ group by shift;
 1. Import `Retail_Sales.csv` into SQL Server.
 2. Create the database and table using the provided SQL scripts.
 3. Run each query in SQL Server Management Studio (SSMS) to see results.
+
 
 
 
