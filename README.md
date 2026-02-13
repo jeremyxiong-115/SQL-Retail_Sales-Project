@@ -6,7 +6,7 @@
 **Level**: Beginner  
 **Database**: `SQL_Project_1`
 
-This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. This project is ideal for those who are starting their journey in data analysis and want to build a solid foundation in SQL.
+Designed and executed a retail sales analysis project using SQL to explore, clean, and analyze sales data, including database setup, data cleaning, and business insights through queries.
 
 ## Objectives
 
@@ -193,6 +193,7 @@ group by shift;
 1. Import `Retail_Sales.csv` into SQL Server.
 2. Create the database and table using the provided SQL scripts.
 3. Run each query in SQL Server Management Studio (SSMS) to see results.
+
 
 
 
